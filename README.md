@@ -1,19 +1,15 @@
 # 👋 Olá, eu sou Dorgivaldo Nunes de Alcântara!
 
-## 🚀 Desenvolvedor Web Iniciante
+## 🚀 Desenvolvedor Front-End | JavaScript | React
 
-Sou **iniciante no Desenvolvimento Web**, mas gosto muito de aprender e estou em constante busca por novos desafios e conhecimentos!
+Desenvolvedor Front-End focado em construir interfaces modernas, responsivas e acessíveis. Atualmente aprimorando conhecimentos em ecossistema JavaScript (React, Node.js) e práticas de UI/UX.
 
 ---
 
-## 💻 Tecnologias que Uso
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/pt-br)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://pt-br.reactjs.org/)
-[![UI/UX](https://img.shields.io/badge/UI/UX-FF5733?style=for-the-badge&logo=sketch&logoColor=white)](https://www.interaction-design.org/literature/topics/ui-ux)
+## 💻 Habilidades Técnicas / Technologies
+* **Front-End:** HTML5, CSS3, JavaScript (ES6+), React.js.
+* **Back-End:** Node.js (Fundamentos).
+* **Design/Ferramentas:** UI/UX Design, Git, GitHub.
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -27,8 +23,12 @@ Sou **iniciante no Desenvolvimento Web**, mas gosto muito de aprender e estou em
 
 ## 🔥 Meu Primeiro Projeto em Destaque
 
-* 🎸 **Enciclopédia interativa de álbuns de heavy Metal:** [Acesse o Repositório](https://github.com/NunezALC/Alura-imers-o-10)
-  > Projeto desenvolvido durante a Imersão Alura.
+### 🎸 Enciclopédia de Álbuns de Heavy Metal
+* **Descrição:** Aplicação web interativa e responsiva criada para listar e filtrar álbuns clássicos de Heavy Metal.
+* **Tecnologias & Conceitos Aplicados:** 
+  * HTML5 estrutural e CSS3 avançado (Flexbox, Grid, Media Queries para responsividade).
+  * JavaScript Vanilla (puro) para lógica de busca otimizada e manipulação dinâmica do DOM.
+  * Implementação de alternância de tema (Claro/Escuro) via manipulação de classes CSS e persistência leve.
 
 ---
 
