@@ -22,7 +22,7 @@ Desenvolvedor Front-End focado em construir interfaces modernas, responsivas e a
 ---
 
 ## 🔥 Meu Primeiro Projeto em Destaque
-
+link do deploy: (https://github.com/NunezALC/Alura-imers-o-10)
 ### 🎸 Enciclopédia de Álbuns de Heavy Metal
 * **Descrição:** Aplicação web interativa e responsiva criada para listar e filtrar álbuns clássicos de Heavy Metal.
 * **Tecnologias & Conceitos Aplicados:** 
